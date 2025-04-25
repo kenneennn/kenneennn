@@ -71,3 +71,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenneennn&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+## 👨‍💻 About Me
+
+```diff
++ 🔭 I’m currently working on full-stack and IoT-based projects.
++ 🌱 I’m learning React Native, ASP.NET, and advanced C#.
++ 👯 I’m looking to collaborate on modern systems with real-world impact.
++ 💬 Ask me about embedded systems, databases, and mobile dev.
++ ⚡ Fun fact: I love debugging at 2AM while sipping iced coffee.
