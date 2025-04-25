@@ -1,4 +1,4 @@
-<h1 align="center">💥 <strong>HI, I'M KENJI</strong> 💥</h1>
+<h1 align="center"><strong>HI, I'M KENJI</strong></h1>
 <h3 align="center">
   A passionate programmer with a strong foundation in software development.<br>
   Dedicated to building efficient and innovative solutions.<br>
