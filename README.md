@@ -1,5 +1,8 @@
 <div style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 40px 20px; text-align: center;">
-  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 10px; color: #1f2937; font-style: Impact ;" >Hi, I'm Kenji 👨🏻‍💻💻</h1>
+  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 10px; color: #1f2937; font-family: Impact;">
+  Hi, I'm Kenji 👨🏻‍💻💻
+</h1>
+
   <h3 style="font-size: 1.3em; font-weight: normal; line-height: 1.6; color: #4b5563;">
     A passionate programmer with a strong foundation in software development.<br>
     Dedicated to building efficient and innovative solutions.<br>
