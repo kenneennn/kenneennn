@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenji</h1>
 <h3 align="center">A passionate programmer with a strong foundation in software development. Dedicated to building efficient and innovative solutions. Thrives in collaborative environments and continuously seeks to learn and apply emerging technologies to real-world challenges.</h3>
 
-## 👨‍💻 About Me
-
-```diff
-+ 🔭 I’m currently working on full-stack and IoT-based projects.
-+ 🌱 I’m learning React Native, ASP.NET, and advanced C#.
-+ 👯 I’m looking to collaborate on modern systems with real-world impact.
-+ 💬 Ask me about embedded systems, databases, and mobile dev.
-+ ⚡ Fun fact: I love debugging at 2AM while sipping iced coffee.
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20views&color=0e75b6&style=flat" alt="kenneennn" />
 </p>
