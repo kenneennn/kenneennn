@@ -42,12 +42,6 @@
   <a href="https://instagram.com/kennnennnn" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="30" />
-  </a>
-  <a href="https://www.tiktok.com/@yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/TikTok_logo.svg" width="30" />
-  </a>
 </p>
 
 ---
