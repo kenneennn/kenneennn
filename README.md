@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" width="300" />
+  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="coding" width="300" />
 </p>
 
 ---
