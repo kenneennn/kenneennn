@@ -70,7 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats (3D & Analytics)
+### 📊 GitHub Stats (Analytics)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneennn&layout=compact&theme=tokyonight" />
   <br/>
