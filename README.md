@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kenjim A. Grande</h1>
-<h3 align="center">A passionate programmer with a strong foundation in software development, dedicated to building efficient and innovative solutions. Thrives in collaborative environments and continuously seeks to learn and apply emerging technologies to real-world challenges.</h3>
+<h1 align="center">Hi, I'm Kenji</h1>
+<h3 align="justify">A passionate programmer with a strong foundation in software development, dedicated to building efficient and innovative solutions. Thrives in collaborative environments and continuously seeks to learn and apply emerging technologies to real-world challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20views&color=0e75b6&style=flat" alt="kenneennn" /> </p>
 
