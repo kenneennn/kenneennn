@@ -1,18 +1,16 @@
-<h1 align="center"><strong>Hi, I'm Kenji 👋</strong></h1>
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 40px 20px; text-align: center;">
+  <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 10px; color: #1f2937;">Hi, I'm Kenji 👋</h1>
+  <h3 style="font-size: 1.3em; font-weight: normal; line-height: 1.6; color: #4b5563;">
+    A passionate programmer with a strong foundation in software development.<br>
+    Dedicated to building efficient and innovative solutions.<br>
+    Thrives in collaborative environments and continuously seeks to learn<br>
+    and apply emerging technologies to real-world challenges.
+  </h3>
+  <p style="margin-top: 30px;">
+    <img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
-<h3 align="center">
-  A passionate programmer with a strong foundation in software development.<br>
-  Dedicated to building efficient and innovative solutions.<br>
-  Thrives in collaborative environments and continuously seeks to learn<br>
-  and apply emerging technologies to real-world challenges.
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenneennn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<!-- Optional: Google Fonts link (only works on web-rendered pages) -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 ---
 
 ### 🏆 GitHub Trophies
