@@ -70,8 +70,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (3D & Analytics)
 <p align="center">
+  <img src="https://github.com/kenneennn/github-profile-3d-contrib/blob/main/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneennn&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=kenneennn&show_icons=true&theme=tokyonight" />
@@ -83,7 +85,7 @@
 
 ## 👨‍💻 About Me
 
-diff
+```diff
 + 🔭 I’m currently working on full-stack and IoT-based projects.
 + 🌱 I’m learning React Native, ASP.NET, and advanced C#.
 + 👯 I’m looking to collaborate on modern systems with real-world impact.
