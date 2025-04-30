@@ -27,7 +27,7 @@
 
 ### 👨‍💻 Coding in Action
 <p align="center">
-  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding" width="300" />
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="300" />
 </p>
 
 ---
