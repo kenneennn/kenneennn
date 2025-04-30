@@ -27,7 +27,7 @@
 
 ### 👨‍💻 Coding in Action
 <p align="center">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="300" />
+  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="300" />
 </p>
 
 ---
